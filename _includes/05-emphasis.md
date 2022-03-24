@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+## Work **related**
+- Databases
+- SQL
+- Python
+- Power BI
+
+## Hobby _related_
+- FL Studio
+- Boxing
